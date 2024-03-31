@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(54, 50, 50);
+    color: white;
+}
+.jumbo-bar{
+    background-color:rgb(24, 22, 22);
+    color: white;
+    border-radius: 20px;
+    width: 80%;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.lower-row{
+ 
+}
+
+.mt{
+    margin-top: 20px;
+}
+
+.add-task{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+margin-left: 100px;
+}
